@@ -19,8 +19,8 @@ Um sistema de **Machine Learning produção-ready** para análise inteligente de
 8. [Instalação](#-instalação-e-setup)
 9. [Performance](#-performance-e-métricas)
 
-10. [![Open In Colab](colab.research.google.com)](https://github.com/laerciosantos09/SAPDPE-Projetos/blob/main/Projeto%20Final/AeroSul_Colab.ipynb)
----
+10. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/laerciosantos09/SAPDPE-Projetos/blob/main/Projeto%20Final/AeroSul_Colab.ipynb)
+
 
 ## 🎯 A Problemática da AeroSul
 
